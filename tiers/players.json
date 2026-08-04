@@ -9,6 +9,11 @@
     "name": "Streyfe",
     "region": "PK",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "NethOp",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
