@@ -3,6 +3,11 @@
     "name": "TEST",
     "region": "PK",
     "type": "Cracked",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
